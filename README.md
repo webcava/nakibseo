@@ -8,7 +8,22 @@ It provides a simple way to review page structure, content, links, keywords, and
 
 > **Note:** This repository does not contain the source code of NakibSEO. It serves as a public information page and release archive for the extension.
 
+## Screenshots
+
+### Extension popup
+
+![NakibSEO extension popup](screenshots/popup.jpg)
+
+### In-page SEO toolbar
+
+![NakibSEO in-page SEO toolbar](screenshots/toolbar.jpg)
+
+### Keyword highlighting
+
+![NakibSEO keyword highlighting](screenshots/keyword-highlighting.jpg)
+
 ## Features
+
 
 ### On-page SEO inspection
 
